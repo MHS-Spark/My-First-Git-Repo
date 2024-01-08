@@ -317,3 +317,144 @@ span{
 .box:hover {
     border: 3px solid black;
   }
+  .promotion{
+    width: 1320px;
+    height: 616px;
+    background-color: rgba(255, 0, 0, 0.05);
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 16px;
+  }
+  .g61{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 570px;
+    top: 80px;
+  }
+  .t17{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    position: relative;
+    top: 100px;
+  }
+  .t18{
+    color: rgba(7, 2, 17, 0.60);
+    width: 896px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: auto;
+    position: relative;
+    top: 110px;
+  }
+  input{
+    width: 438px;
+    height: 72px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    position: relative;
+    left: 300px;
+    top: 150px;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+  }
+  .sub{
+    width: 210px;
+    height: 77px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    position: relative;
+    left: 300px;
+    top: 150px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    border: none;
+  }
+  .footer{
+    width: 1600px;
+    height: 609px;
+    margin: auto;
+    margin-top: 120px;
+    background-color: #070211;
+  }
+  .add{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+  }
+  .t19{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+  }
+  .t20{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+  }
+  .add-info{
+    display: flex;
+    justify-content: space-between;
+  }
+  .t21{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .t22{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+  }
+.socials{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+hr{
+    margin: 30px 0px;
+    background-color: #070211;
+    height: 1px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+.copyright{
+    display: flex;
+    justify-content: center;
+    gap: 950px;
+    margin-top: 100px;
+}
+.number img{
+    position: relative;
+    top: 80px;
+    right: 350px;
+}
+.t19,.t20{
+    position: relative;
+    top: 41px;
+    right: 310px;
+}
